@@ -1,0 +1,6 @@
+{
+  "name": "Generador de imágenes personalizadas V4.0",
+  "description": "Aplicación web móvil para generar y compartir imágenes personalizadas en PNG de 1080 × 1080 píxeles con procesamiento local en el dispositivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
